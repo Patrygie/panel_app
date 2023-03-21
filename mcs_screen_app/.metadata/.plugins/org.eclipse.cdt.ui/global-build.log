@@ -1,4 +1,4 @@
-15:11:19 **** Incremental Build of configuration Debug for project STM32CubeIDE ****
+20:19:08 **** Incremental Build of configuration Debug for project STM32CubeIDE ****
 make -j12 all 
 arm-none-eabi-size   STM32CubeIDE.elf 
    text	   data	    bss	    dec	    hex	filename
